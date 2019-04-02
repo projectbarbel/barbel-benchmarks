@@ -1,4 +1,0 @@
-package org.projectbarbel.locking.benchmarks.random.generated;
-public class LockBenchmark_Random_ReentrantLock_Online_jmhType extends LockBenchmark_Random_ReentrantLock_Online_jmhType_B3 {
-}
-
