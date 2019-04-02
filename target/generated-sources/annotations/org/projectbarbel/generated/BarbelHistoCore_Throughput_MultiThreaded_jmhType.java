@@ -1,0 +1,4 @@
+package org.projectbarbel.generated;
+public class BarbelHistoCore_Throughput_MultiThreaded_jmhType extends BarbelHistoCore_Throughput_MultiThreaded_jmhType_B3 {
+}
+

@@ -1,0 +1,4 @@
+package org.projectbarbel.locking.benchmarks.random.generated;
+public class LockBenchmark_Random_ReentrantReadWriteLock_Online_jmhType extends LockBenchmark_Random_ReentrantReadWriteLock_Online_jmhType_B3 {
+}
+

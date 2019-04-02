@@ -1,0 +1,4 @@
+package org.projectbarbel.locking.benchmarks.generated;
+public class Verfification_Benchmark_BenchmarkState_jmhType extends Verfification_Benchmark_BenchmarkState_jmhType_B3 {
+}
+
